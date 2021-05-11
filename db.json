@@ -67,12 +67,12 @@
       "organizer": "Brody Kill"
     }
   ],
-  "tasklist" :[
+  "tasklist": [
     { "id": 1, "title": "Minha Lista", "color": "#BABACA", "default": true },
     { "id": 2, "title": "Comidas", "color": "#FF8A80", "default": false },
-    { "id": 3, "title": "Tarefas", "color": "#7E57C2", "default": false },
+    { "id": 3, "title": "Tarefas", "color": "#7E57C2", "default": false }
   ],
-  "tasks" :[
+  "tasks": [
     { "id": 1, "idTaskList": 1, "title": "Comer Frutas", "note": "Notas do comer frutas" },
     { "id": 2, "idTaskList": 1, "title": "Fazer Lição", "note": "Hiatória e Geografia" },
     { "id": 3, "idTaskList": 1, "title": "Jogar LOL", "note": "Só uma partida" },
