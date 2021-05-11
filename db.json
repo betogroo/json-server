@@ -75,7 +75,7 @@
   "tasks": [
     { "id": 1, "idTaskList": 1, "title": "Comer Frutas", "note": "Notas do comer frutas", "isDone": false, "color": "#BABACA" },
     { "id": 2, "idTaskList": 1, "title": "Fazer Lição", "note": "Hiatória e Geografia", "isDone": true, "color": "#BABACA" },
-    { "id": 3, "idTaskList": 1, "title": "Jogar LOL", "note": "Só uma partida", "isDone": false, "color": "#BABACA" },
+    { "id": 3, "idTaskList": 1, "title": "Jogar LOL", "note": "Só uma partida de LOL, vou colcar um texto grande para ver se vai truncar, vamos ver", "isDone": false, "color": "#BABACA" },
     { "id": 4, "idTaskList": 1, "title": "Almoço", "note": "", "isDone": false, "color": "#BABACA" }
   ]
 }
