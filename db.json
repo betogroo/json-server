@@ -67,7 +67,7 @@
       "organizer": "Brody Kill"
     }
   ],
-  "tasklist": [
+  "tasklists": [
     { "id": 1, "title": "Minha Lista", "color": "#BABACA", "default": true },
     { "id": 2, "title": "Comidas", "color": "#FF8A80", "default": false },
     { "id": 3, "title": "Tarefas", "color": "#7E57C2", "default": false }
