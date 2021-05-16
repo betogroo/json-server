@@ -75,7 +75,7 @@
 
   ],
   "tasks": [
-    { "id": 1, "idTaskList": 1, "title": "Comer Frutas", "note": "Notas do comer frutas", "isDone": false, "color": "#BABACA", "doneDate": "2021-05-25"  },
+    { "id": 1, "idTaskList": 1, "title": "Comer Frutas", "note": "Notas do comer frutas", "isDone": true, "color": "#BABACA", "doneDate": "2021-05-25"  },
     { "id": 2, "idTaskList": 3, "title": "Fazer Lição", "note": "Hiatória e Geografia", "isDone": true, "color": "#7E57C2",  "doneDate": "2021-05-25" },
     { "id": 3, "idTaskList": 4, "title": "Jogar LOL", "note": "Só uma partida de LOL, vou colcar um texto grande para ver se vai truncar, vamos ver", "isDone": false, "color": "#3E57C4",  "doneDate": "2021-05-25" },
     { "id": 4, "idTaskList": 2, "title": "Almoço", "note": "", "isDone": false, "color": "#FF8A80",  "doneDate": "2021-05-25" },
@@ -90,6 +90,6 @@
     { "id": 13, "idTaskList": 1, "title": "Limpar Aspirador", "note": "Notas do comer frutas", "isDone": false, "color": "#BABACA",  "doneDate": "2021-05-25" },
     { "id": 14, "idTaskList": 2, "title": "Receita Pirão", "note": "Hiatória e Geografia", "isDone": true, "color": "#7E57C2",  "doneDate": "2021-05-25" },
     { "id": 15, "idTaskList": 3, "title": "Limpar monitor com Álcool", "note": "Só uma partida de LOL, vou colcar um texto grande para ver se vai truncar, vamos ver", "isDone": false, "color": "#BABACA",  "doneDate": "2021-05-25" },
-    { "id": 16, "idTaskList": 4, "title": "Ver Séries", "note": "", "isDone": false, "color": "#3E57C4",  "doneDate": "2021-05-25" }
+    { "id": 16, "idTaskList": 4, "title": "Ver Séries", "note": "", "isDone": true, "color": "#3E57C4",  "doneDate": "2021-05-25" }
   ]
 }
