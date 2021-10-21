@@ -110,7 +110,7 @@
   {
     "id" : "792886ce-408b-4d58-bc45-beced752fce8",
     "title": "Node Js",
-    "description" : "Olá, seja muito bem vindo a Formação Node.js, meu nome é Victor Lima(CEO do Guia do programador), e eu serei seu instrutor durante todo este curso. Eu criei essa formação para ser o que eu gostaria de ter estudado quando eu estava aprendendo Node.js A Formação Node.js, é um curso completo que vai do básico do Node.js, se aprofundado bastante no desenvolvimento web com Javascript para o back-end, com bibliotecas como Express.js, e bancos de dados como MongoDB e MySQL.",
+    "description" : "Olá, seja muito bem vindo a Formação Node.js, meu nome é Coiso Lima(CEO do Programando coisas), e eu serei seu instrutor durante todo este curso.",
     "lessons": [
       { "id" : "20829bff-8872-498e-8c3e-028de3441de6", "title": "Node.js" },
       { "id" : "b3128013-4568-4bc8-8e3b-3a84c5881ede", "title": "ES6/ES7" },
